@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Vasudevan Rajagopal</h1>
 <h3 align="center">Fellow Data Enthusiast and Ardent Data Scientist</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vasudevan&label=Profile%20views&color=0e75b6&style=flat" alt="vasudevan" /> </p>
+
 - 📫 How to reach me **vasudevanrg@gmail.com**
+
+- ⚡ Fun fact **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
